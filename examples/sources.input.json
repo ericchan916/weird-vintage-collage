@@ -1,0 +1,53 @@
+[
+  {
+    "id": "diver",
+    "element": "老式潜水员",
+    "source_page": "https://www.loc.gov/pictures/resource/cph.3a50953/",
+    "image_url": "https://tile.loc.gov/storage-services/service/pnp/cph/3a50000/3a50000/3a50900/3a50953v.jpg",
+    "credit": "Library of Congress, cph.3a50953; photographer not verified",
+    "license": "未核实；不由机构名称推定许可",
+    "rights_evidence": "https://www.loc.gov/pictures/item/2017865815/",
+    "role": "主角照片与头盔参考"
+  },
+  {
+    "id": "butterfly",
+    "element": "蝴蝶",
+    "source_page": "https://naturalhistory.si.edu/object/nmnheducation_11016396",
+    "image_url": "https://ids.si.edu/ids/deliveryService?id=ark%3A%2F65665%2Fm303f9cee087f04ff9b1f6fd2000634c26&max=1600",
+    "credit": "Smithsonian National Museum of Natural History, EO400819",
+    "license": "CC0; source record states Creative Commons Zero",
+    "rights_evidence": "https://naturalhistory.si.edu/object/nmnheducation_11016396",
+    "role": "翅膀标本、形态和蓝色纹理"
+  },
+  {
+    "id": "moon",
+    "element": "月球",
+    "source_page": "https://science.nasa.gov/resource/moon-mosaic/",
+    "image_url": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/earths-moon/outreach-materials/NASA-LRO-Moon-mosaic.png?crop=faces%2Cfocalpoint&fit=crop&h=1024&w=1024",
+    "credit": "NASA’s Scientific Visualization Studio; Ernie Wright (USRA)",
+    "license": "来源页提供下载并要求署名 NASA Scientific Visualization Studio；不概括为 CC0",
+    "rights_evidence": "https://svs.gsfc.nasa.gov/5001/",
+    "role": "月面纹理与圆形",
+    "notes": "SVS direct download failed with SSL EOF; using the official NASA Science copy of the same mosaic."
+  },
+  {
+    "id": "staircase",
+    "element": "旋转楼梯",
+    "source_page": "https://commons.wikimedia.org/wiki/File:SpiralstaircaseSLT3b18940u.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/SpiralstaircaseSLT3b18940u.jpg",
+    "credit": "Charles Roscoe Savage; Library of Congress, cph.3b18940; via Wikimedia Commons",
+    "license": "Public Domain Mark 1.0, as labelled on source page",
+    "rights_evidence": "https://commons.wikimedia.org/wiki/File:SpiralstaircaseSLT3b18940u.jpg",
+    "role": "独立建筑剪片的踏步、弧线和栏杆"
+  },
+  {
+    "id": "wave",
+    "element": "海浪",
+    "source_page": "https://www.metmuseum.org/art/collection/search/36491",
+    "image_url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/36491/140211/main-image",
+    "credit": "Katsushika Hokusai, Under the Wave off Kanagawa, ca. 1830–32; The Metropolitan Museum of Art, JP10",
+    "license": "Public Domain, as labelled on source page",
+    "rights_evidence": "https://www.metmuseum.org/art/collection/search/36491",
+    "role": "只取波浪曲线与版画纹理；不取题字"
+  }
+]

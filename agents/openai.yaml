@@ -1,0 +1,4 @@
+interface:
+  display_name: "怪诞复古拼贴"
+  short_description: "先询问画面元素，再搜图并制作保留照片细节与旧印刷质感的怪诞杂志拼贴"
+  default_prompt: "使用 $weird-vintage-collage，先问我想放哪些元素，再找图，按 A 方向的摄影杂志拼贴风格做一张无字画面。"
